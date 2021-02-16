@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188688350774",
+    "project_id": "cursos-app-bf582",
+    "storage_bucket": "cursos-app-bf582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188688350774:android:96e137c1b13afa1e95a297",
+        "android_client_info": {
+          "package_name": "br.com.dapps.courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188688350774-5gbhqlrv0p2in8kf816cnmqnj33skgil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRExus--s3H27x9gChwpq1WjSY9fU4_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188688350774-5gbhqlrv0p2in8kf816cnmqnj33skgil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
